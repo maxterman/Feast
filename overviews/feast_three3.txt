@@ -1,0 +1,7 @@
+"feast_three3"
+{
+"material" "overviews/feast_three3"
+"pos_x" "-517"
+"pos_y" "2330"
+"scale" "4.5"
+}

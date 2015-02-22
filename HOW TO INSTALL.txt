@@ -8,6 +8,11 @@ Select Properties.
 Select Local Files tab.
 Select Browse Local Files.
 Open ‘csgo’ folder.
+Open ‘resource’ folder.
+Open ‘overviews’ folder.
+Copy or drag files from Feast/overviews into this overviews folder. These are:
+	-feast_three3_radar.dds
+	-feast_three3.txt
 Open ‘maps’ folder.
 Copy or drag files from Feast/maps into this maps folder. These are:
 	-feast_three3.bsp
@@ -24,8 +29,12 @@ Copy or drag files from Feast/cfg into this cfg folder. These are:
 Windows:
 
 Follow this folder path:
-My Computer -> C: -> Program Files (x86) -> Steam -> SteamApps -> common -> Counter-Strike Global Offensive -> csgo -> maps
+My Computer -> C: -> Program Files (x86) -> Steam -> SteamApps -> common -> Counter-Strike Global Offensive -> csgo -> resource -> overviews
 
+Copy or drag files from Feast/overviews into this overviews folder. These are:
+	-feast_three3_radar.dds
+	-feast_three3.txt
+Go back to the ‘cogs’ folder, then open the ‘maps’ folder.
 Copy or drag files from Feast/maps into this maps folder. These are:
 	-feast_three3.bsp
 	-feast_three3.jpg
