@@ -1,0 +1,41 @@
+//////////////////////////////////////////
+How to install Feast Map and Mode
+//////////////////////////////////////////
+Mac:
+
+From Steam, right-click (ctrl-click) on Counter-Strike Global Offensive.
+Select Properties.
+Select Local Files tab.
+Select Browse Local Files.
+Open ‘csgo’ folder.
+Open ‘maps’ folder.
+Copy or drag files from Feast/maps into this maps folder. These are:
+	-feast_three3.bsp
+	-feast_three3.jpg
+	-feast_three3.log
+	-feast_three3.nav
+	-feast_three3.prt
+In the ‘maps’ folder (csgo/maps), open ‘cfg’ folder.
+Copy or drag files from Feast/cfg into this cfg folder. These are:
+	-feast_three3.cfg
+	-feast_three3.txt
+
+///////////////////////////////////////////
+Windows:
+
+Follow this folder path:
+My Computer -> C: -> Program Files (x86) -> Steam -> SteamApps -> common -> Counter-Strike Global Offensive -> csgo -> maps
+
+Copy or drag files from Feast/maps into this maps folder. These are:
+	-feast_three3.bsp
+	-feast_three3.jpg
+	-feast_three3.log
+	-feast_three3.nav
+	-feast_three3.prt
+In the ‘maps’ folder (csgo/maps), open ‘cfg’ folder.
+Copy or drag files from Feast/cfg into this cfg folder. These are:
+	-feast_three3.cfg
+	-feast_three3.txt
+
+////////////////////////////////////////////
+That’s it!
